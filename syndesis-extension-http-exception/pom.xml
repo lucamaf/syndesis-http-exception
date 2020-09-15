@@ -26,10 +26,10 @@
     <syndesis.version>1.10.0</syndesis.version>
   </properties>
 
-  <artifactId>syndesis-extension-validate</artifactId>
+  <artifactId>syndesis-extension-http-exception</artifactId>
   <version>1.0.0</version>
-  <name>Validate</name>
-  <description>Add a validation based on a given rule</description>
+  <name>Exception</name>
+  <description>Manage http calls exceptions</description>
   <packaging>jar</packaging>
 
   <dependencyManagement>
